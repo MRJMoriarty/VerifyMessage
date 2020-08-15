@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PhoneNumber</string>
+    <string name="手机">手机号登录</string>
+    <string name="登录">登录</string>
+    <string name="发送验证码">成功向</string>
+    <string name="发送了验证码">发送了一条验证码</string>
+    <string name="hint">请输入手机号</string>
+    <string name="验证成功">验证成功</string>
+</resources>
